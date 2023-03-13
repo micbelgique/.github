@@ -8,7 +8,7 @@
 
 
 <details open> 
-  <summary><h2>📊 Nos activités</h2></summary>
+  <summary><h2>📊 Nos activités.</h2></summary>
     Le MIC - Meet Innovate Create est un lieu de partage technologique. C'est dans cette optique que le MIC organise différents événements tout au long de l'année pour les entreprises et les développeurs.
     Parmi les événements-phares :
     • Chaque vendredi, le MIC devient un Open Space où tous les développeurs (mais aussi designers ou entrepreneurs) peuvent venir travailler et rencontrer d’autres professionnels du secteur. C'est également l'occasion de découvrir notre Espace Démonstrations. 
@@ -16,7 +16,7 @@
 </details>
 
 <details open> 
-  <summary><h2>📕 Latest Blog posts</h2></summary>
+  <summary><h2>📕 Les derniers articles.</h2></summary>
     <!-- BLOG-POST-LIST:START -->
     <!-- BLOG-POST-LIST:END -->
 </details>
