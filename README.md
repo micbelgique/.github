@@ -1,1 +1,1 @@
-# .github
+# MIC - Meet Innovate Create
