@@ -17,6 +17,6 @@
 
 <details open> 
   <summary><h2>📕 Les derniers articles.</h2></summary>
-    <!-- BLOG-POST-LIST:START -->
-    <!-- BLOG-POST-LIST:END -->
+  <!--START_SECTION:feed-->
+  <!--END_SECTION:feed-->
 </details>
