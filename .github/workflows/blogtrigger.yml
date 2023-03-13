@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - uses: Lloydcol/rss-to-readme@v1
+      - uses: Lloydcol/rss-to-readme@v1.0.0
         with:
           feed-url: https://www.mic-belgique.be/feed/
           readme-section: feed
