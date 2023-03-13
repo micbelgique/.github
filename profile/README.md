@@ -15,7 +15,7 @@
     • Mais aussi hackathons, workshops, drinks, séminaires...
 </details>
 
-<summary><h2>📕 Les derniers articles.</h2></summary>
+## 📕 Les derniers articles.
 <!--START_SECTION:feed-->
   * [Softlab Academy for Students: découvrez les témoignages](https:&#x2F;&#x2F;www.mic-belgique.be&#x2F;blog&#x2F;articles&#x2F;softlab-academy-students&#x2F;)
   * [Le MIC engage un(e) Chargé(e) de communication (CDD – contrat de remplacement)](https:&#x2F;&#x2F;www.mic-belgique.be&#x2F;blog&#x2F;articles&#x2F;le-mic-engage-une-charge-de-communication-cdd-contrat-de-remplacement&#x2F;)
