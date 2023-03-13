@@ -12,5 +12,10 @@ Parmi les événements-phares:
 
 ## 📕 Les derniers articles.
 <!--START_SECTION:feed-->
+* [Softlab Academy for Students: découvrez les témoignages](https://www.mic-belgique.be/blog/articles/softlab-academy-students/)
+* [Le MIC engage un(e) Chargé(e) de communication (CDD – contrat de remplacement)](https://www.mic-belgique.be/blog/articles/le-mic-engage-une-charge-de-communication-cdd-contrat-de-remplacement/)
+* [Trouver l’endroit le plus agréable pour travailler grâce aux données](https://www.mic-belgique.be/blog/articles/trouver-l-endroit-le-plus-agreable-pour-travailler-grace-aux-donnees/)
+* [Le MIC engage un(e) Developer Evangelist (CDI)](https://www.mic-belgique.be/blog/articles/le-mic-recherche-une-developer-evangelist/)
+* [Le MIC recherche un(e) Project Manager](https://www.mic-belgique.be/blog/articles/le-mic-recherche-une-project-manager/)
 <!--END_SECTION:feed-->
 
