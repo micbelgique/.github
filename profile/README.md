@@ -12,10 +12,10 @@ Parmi les événements-phares:
 
 ## 📕 Les derniers articles.
 <!--START_SECTION:feed-->
-* [Softlab Academy for Students: découvrez les témoignages](https://www.mic-belgique.be/blog/articles/softlab-academy-students/)
-* [Le MIC engage un(e) Chargé(e) de communication (CDD – contrat de remplacement)](https://www.mic-belgique.be/blog/articles/le-mic-engage-une-charge-de-communication-cdd-contrat-de-remplacement/)
+* [Le projet de reconnaissance d’objets à la volée !](https://www.mic-belgique.be/blog/articles/prototypage-du-mic-verificator/)
+* [Softlab Academy for Students : découvre les témoignages](https://www.mic-belgique.be/blog/articles/softlab-academy-students/)
 * [Trouver l’endroit le plus agréable pour travailler grâce aux données](https://www.mic-belgique.be/blog/articles/trouver-l-endroit-le-plus-agreable-pour-travailler-grace-aux-donnees/)
-* [Le MIC engage un(e) Developer Evangelist (CDI)](https://www.mic-belgique.be/blog/articles/le-mic-recherche-une-developer-evangelist/)
-* [Le MIC recherche un(e) Project Manager](https://www.mic-belgique.be/blog/articles/le-mic-recherche-une-project-manager/)
+* [Job Day, l’opportunité de rencontrer vos futurs Juniors](https://www.mic-belgique.be/blog/articles/job-day/)
+* [Le chatbot : le petit assistant qui fait la différence](https://www.mic-belgique.be/blog/articles/le-chatbot-le-petit-assistant-qui-fait-la-difference/)
 <!--END_SECTION:feed-->
 
